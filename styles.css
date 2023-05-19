@@ -71,11 +71,15 @@ ul {
 .your-events {
     grid-row: 1/3;
     background-color: #6c7c9c;
+    padding: 1rem;
 }
 
 .advertised-events {
     background-color: #6c7c9c;
+    padding: 1rem;
 }
+
 .friend-events {
-    background-color: #6c7c9c
+    background-color: #6c7c9c;
+    padding: 1rem;
 }
