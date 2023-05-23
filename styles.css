@@ -75,6 +75,9 @@ ul {
 
 .content .card {
     background-color: #b91c1c;
+    border-radius: 10PX;
+    padding: 10px;
+    margin:10px;
 }
 
 .your-events {
