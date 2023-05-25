@@ -29,6 +29,9 @@ ul {
 .header {
     background-color: #030712;
     display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
     grid-column: 2/3;
     color: white;
     padding: .5rem;
